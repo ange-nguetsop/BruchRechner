@@ -1,0 +1,5 @@
+﻿  rationaleZahlen.cpp
+C:\Users\nguet\OneDrive\Desktop\Cplus\Lektion1\rationaleZahlen\rationaleZahlen\rationaleZahlen.cpp(160,1): warning C4326: Der Rückgabetyp von "main" sollte "int" und nicht "void" sein
+C:\Users\nguet\OneDrive\Desktop\Cplus\Lektion1\rationaleZahlen\rationaleZahlen\rationaleZahlen.cpp(180,23): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+C:\Users\nguet\OneDrive\Desktop\Cplus\Lektion1\rationaleZahlen\rationaleZahlen\rationaleZahlen.cpp(200,23): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+  rationaleZahlen.vcxproj -> C:\Users\nguet\OneDrive\Desktop\Cplus\Lektion1\rationaleZahlen\x64\Debug\rationaleZahlen.exe
