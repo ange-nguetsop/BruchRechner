@@ -164,7 +164,7 @@ void main(void)
 	Rzahl r2 = { 0,0 };
 	Rzahl res = { 0,0 };
 	int f = 1;
-
+	printf("\tBRUCHRECHNER\n\t=========================\n");
 	while (1)
 	{
 		Loop:
